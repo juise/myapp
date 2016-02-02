@@ -1,0 +1,19 @@
+{application, myapp,
+ [
+  {description, "An OTP application"},
+  {vsn, "1.0.0"},
+  {registered, []},
+  {mod, {myapp_app, []}},
+  {applications, [
+                  kernel,
+                  stdlib,
+
+                  lager
+                 ]},
+  {env,[]},
+  {modules, []},
+
+  {contributors, []},
+  {licenses, []},
+  {links, []}
+ ]}.

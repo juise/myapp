@@ -1,0 +1,13 @@
+{release,
+    {"myapp",   "1.0.0"},
+    {erts,      "7.0"},
+    [
+        {kernel,        "4.0"},
+        {stdlib,        "2.5"},
+        {sasl,          "2.5"},
+        {syntax_tools,  "1.7"},
+        {compiler,      "6.0"},
+        {goldrush,      "0.1.8"},
+        {lager,         "3.1.0"},
+        {myapp,         "1.0.0"}
+]}.
