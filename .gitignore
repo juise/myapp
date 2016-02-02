@@ -10,7 +10,6 @@ _*
 deps
 ebin
 log
-rel
 erl_crash.dump
 .rebar
 _rel
